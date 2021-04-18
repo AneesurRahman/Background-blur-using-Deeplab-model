@@ -10,14 +10,8 @@ Edge detection is also improve using Erosion Morphological operation
 forground without erosion 
 ![](images/fgwoe.JPG)
 
-
-
-
-
-
-
-
-Forground Image using erosion
+### Forground Image using erosion
+![](images/fgwe.JPG)
 
  
 Background is extracted using AND operation with blur original image and inverse map 
