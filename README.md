@@ -8,7 +8,7 @@ Edge detection is also improve using Erosion Morphological operation
 
 ### Foreground without erosion 
 forground without erosion 
-![](forground without erosion.JPG)
+![](fgwoe.JPG)
 
 
 
