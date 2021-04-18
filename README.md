@@ -13,9 +13,9 @@ forground without erosion
 ### Forground Image using erosion
 ![](images/fgwe.JPG)
 
- 
+### Background
 Background is extracted using AND operation with blur original image and inverse map 
-
+![](images/bg.JPG)
  
 Lastly adding both layers gives blur background image                            I
   
