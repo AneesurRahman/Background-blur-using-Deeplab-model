@@ -1,3 +1,4 @@
+#Background blur using DeepLab Model
 Background blur using DeepLab Model 
 In this project I blur image back ground using deeplab model
 Model gives segmented map and from this model we get foreground using bitwiseAND operation
