@@ -1,10 +1,10 @@
-#Background blur using DeepLab Model
-Background blur using DeepLab Model 
-In this project I blur image back ground using deeplab model
+# Background blur using DeepLab Model
+
 Model gives segmented map and from this model we get foreground using bitwiseAND operation
 Edge detection is also improve using Erosion Morphological operation 
-Input image 
- 
+### Input image
+![](images/1.jpg)
+
 
 Foreground without erosion 
  
