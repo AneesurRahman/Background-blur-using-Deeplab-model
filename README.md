@@ -3,7 +3,7 @@
 Model gives segmented map and from this model we get foreground using bitwiseAND operation
 Edge detection is also improve using Erosion Morphological operation 
 ### Input image
-![](images/1.jpgn)
+![](images/1.JPG)
 
 
 Foreground without erosion 
